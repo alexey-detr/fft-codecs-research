@@ -1,6 +1,6 @@
 [package]
 
-name = "fft_codecs_research"
+name = "fft-codecs-research"
 version = "0.0.1"
 authors = ["Alexey Ponomarev <xlz@ya.ru>"]
 

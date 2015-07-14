@@ -1,5 +1,5 @@
 [root]
-name = "fft_codecs_research"
+name = "fft-codecs-research"
 version = "0.0.1"
 dependencies = [
  "rustfft 0.0.3 (registry+https://github.com/rust-lang/crates.io-index)",

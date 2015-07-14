@@ -2,6 +2,7 @@ use std::error::Error;
 use std::fs::File;
 use std::io::prelude::*;
 use std::path::Path;
+extern crate rustfft;
 
 #[derive(Default)]
 pub struct Header {
